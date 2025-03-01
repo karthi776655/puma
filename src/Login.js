@@ -31,10 +31,8 @@ const signup = () => {
     }
   }
 };
- 
 return (
   <div className='backround' >
-
       <div className='ak'>                 
          
         <img className='logo' src={puma} alt=''/>
