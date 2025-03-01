@@ -46,29 +46,7 @@ const Product = () => {
                <h2>$ 20999</h2>
       </div>
       </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       </div>
-
   );
 };
 export default Product;

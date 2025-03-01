@@ -1,13 +1,4 @@
-import React from 'react';
-import "./Login.css";
-import puma from "./pumaa.png";
-import { data } from 'react-router-dom';
-const Login = (props) => {
-var userData = [
-  {userName: "karthi",password: 6381,cart:[]},
-  {userName: "alex",paswcord: 8808,cart:[]},
-  {userName: "pandii",password: 9090,cart:[]},
-];
+
 // function signup()
 // var userName = document.getElementById("usserName").value;
 // var userName = document.getElementById("password").value;
