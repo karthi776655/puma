@@ -31,6 +31,26 @@ const signup = () => {
     }
   }
 };
-  
+ 
+return (
+  <div className='backround' >
+
+      <div className='ak'>                 
+         
+        <img className='logo' src={puma} alt=''/>
+      <div>
+       <p>username</p>
+          <input id="userName" placeholder="Userid...." />
+         
+          </div>
+          <div>
+          <p>password</p>
+          <input id="password" placeholder="password...." />
+          
+          </div>
+          <button onClick={signup}>Login</button>
+          </div>
+          </div>
+);
 };
 export default Login;
